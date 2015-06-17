@@ -1,0 +1,17 @@
+{
+  "name": "karma-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.36",
+    "karma-expect": "^1.1.0",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.2.5"
+  }
+}

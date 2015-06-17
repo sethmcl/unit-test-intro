@@ -1,0 +1,14 @@
+{
+  "name": "venus-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/venus test/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "venus": "^2.3.9"
+  }
+}
